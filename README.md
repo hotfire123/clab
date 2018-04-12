@@ -1,5 +1,11 @@
-# clab
-It's just a lab.
-1.Modified by cobra one at 4/3/2018 14:46.
-2.Modified second.
-3.Test git diff.
+This is an excise
+The main function:
+Users can use 8 option commands to finish some task
+--help
+--ls
+--pwd
+--ps
+--code
+--hello
+--date
+--quit
